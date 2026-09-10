@@ -1,0 +1,21 @@
+# BhoomiSetu backend dependencies
+# Install with:  pip install -r requirements.txt
+
+# Web framework + server
+fastapi==0.141.1
+uvicorn==0.52.4
+
+# Database ORM
+SQLAlchemy==2.0.52
+
+# Request/response validation (installed with fastapi, pinned for reproducibility)
+pydantic==2.13.4
+
+# Reads DATABASE_URL and SECRET_KEY from .env
+python-dotenv==1.2.3
+
+# Password hashing
+bcrypt==5.0.0
+
+# JWT creation and verification for login tokens
+python-jose[cryptography]==3.5.0

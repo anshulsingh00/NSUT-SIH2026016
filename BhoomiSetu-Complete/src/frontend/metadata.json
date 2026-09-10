@@ -1,0 +1,6 @@
+{
+  "name": "BhoomiSetu — Land Acquisition Management Platform",
+  "description": "Intelligent Land Acquisition Management & GIS Monitoring Platform for Government Officers, Landowners, and Administrators.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
