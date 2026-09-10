@@ -1,2 +1,0 @@
-# This file directs to the backend source folder for SIH template compliance.
--r src/backend/requirements.txt
